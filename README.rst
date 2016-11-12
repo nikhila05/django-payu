@@ -1,5 +1,3 @@
-Django-PayU
-==============
 .. image:: http://travis-ci.org/MicroPyramid/django-payu.svg?branch=master
     :target: http://travis-ci.org/MicroPyramid/django-payu
 .. image:: https://coveralls.io/repos/github/MicroPyramid/django-payu/badge.svg?branch=master
@@ -14,8 +12,8 @@ Django-PayU
 This package provides integration between `Django` and `PayU Payment Gateway`.
 
 
-Quick start
-------------
+`Django PayU`_ Quick start
+--------------------------
 
 1. Install 'django-payu' using the following command::
 
@@ -43,6 +41,11 @@ Quick start
     python manage.py migrate
 
 
-For additional help you can `Contact us here`_
+Questions, Comments, etc?
+-------------------------
+
+We welcome your feedback and support, raise `github ticket`_ if you want to report a bug. Need new features? `Contact us here`_
 
 .. _contact us here: https://micropyramid.com/contact-us/
+.. _github ticket: https://github.com/MicroPyramid/django-payu/issues
+.. _Django PayU: https://micropyramid.com/oss/
